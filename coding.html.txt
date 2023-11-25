@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Belajar Membuat Coding</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>Belajar Coding</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#Coding">Coding</a></li>
+                    <li><a href="#Css">Css</a></li>
+                    <li><a href="#Owner">Owner</a></li>
+                    <li><a href="#Kampus">Kampus</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="" class="tbl-biru">Log in</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+
+        <!-- untuk coding -->
+
+        <section id="Coding">
+            <img src="c:\Users\USER\Downloads\file farel\contoh html.jpg"/>
+            <div class="kolom">
+                <p class="deskripsi"></p>
+                <h2>Belajar Coding</h2>
+                <p>Definisi coding adalah kegiatan yang berkaitan dengan menulis atau merangkai suatu perintah yang dapat dibaca oleh manusia berdasarkan syntax (aturan penulisan) dalam bahasa pemrograman tertentu, yang kemudian dikonversikan menjadi kode-kode yang dapat dimengerti oleh mesin.Pengkodean menciptakan serangkaian instruksi untuk diikuti oleh komputer . Instruksi ini menentukan tindakan apa yang dapat dan tidak dapat dilakukan oleh komputer. Pengkodean memungkinkan pemrogram membuat program, seperti situs web dan aplikasi. Pemrogram komputer juga dapat memberi tahu komputer cara memproses data dengan lebih baik dan lebih cepat.</p>
+                <p><a href="" class="tbl-pink">Pelajari Lebih Lanjut</a></p>
+            </div>
+        </section>
+
+        <!-- untuk Css -->
+
+        <section id="Css">
+            <div class="kolom">
+                <p class="deskripsi"></p>
+                <h2>Belajar Css</h2>
+                <p>Cascading Style Sheets (CSS) merupakan bahasa pemrograman yang digunakan untuk menentukan bagaimana dokumen dan website akan disajikan. CSS dibuat oleh Word Wide Web Consortium (W3C) pada 1996.yang dipergunakan untuk menentukan tampilan dan format pada sebuah website. 
+                    
+                Artinya, dengan adanya CSS bisa mengatur mulai dari font, warna tulisan dan latar belakang pada website tersebut.bekerja saat sebuah browser membuka Halaman Website ,pada saat itu browser harus menggabungkan konten dokumen dengan gaya informasi dalam halaman sebuah situs.
+                
+                CSS memiliki beberapa langkah cara kerja sebagai berikut: Load HTML, dalam tahap ini browser memuat HTML.</p>
+                <p><a href="" class="tbl-biru">Pelajari Lebih Lanjut</a></p>
+            </div>
+            <img src="c:\Users\USER\Downloads\file farel\contoh css.jpg"/>
+        </section>
+
+        <!-- untuk Owner -->
+
+        <section id="Owner">
+            <div class="tengah">
+                <div class="kolom"></p>
+                    <h2>Pemilik</h2>
+                    <p>Di buat oleh pemilik pada tanggal 24/11/2023</p>
+                </div>
+
+                <div class="tutor-Owner">
+                    <div class="kartu-Owner">   
+                        <img src="c:\Users\USER\Downloads\file farel\studio band.jpg"/>
+                        <p>Farel Arief.AP</
+                    </div>
+                    <p class="deskripsi">Owner
+                </div>
+            </div>
+        </section>
+
+        <!-- untuk Kampus -->
+
+        <section id="Kampus">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">pendidikan</p>
+                    <h2>kampus</h2>
+                    <p>berkuliah di institud master pekanbaru</p>
+                </div>
+
+                <div class="partner-kampus">
+                    <div class="kartu-kampus    ">
+                        <img src="c:\Users\USER\Downloads\file farel\logo institur master.jpg"/>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+    </div>
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>institud master</h3>
+                    <p>jurusan inforasi dan komunikasi</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2023. <b>Farel Arief Amaripuja</b> pembuat website
+        </div>
+    </div>
+    
+</body>
+</html>
